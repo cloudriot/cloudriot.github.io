@@ -1,2 +1,2 @@
-# cloudriot.github.io
+# cloudriot
 Website
